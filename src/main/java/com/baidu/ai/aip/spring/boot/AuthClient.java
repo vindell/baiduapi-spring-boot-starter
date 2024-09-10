@@ -22,7 +22,7 @@ import java.net.URL;
 import java.util.List;
 import java.util.Map;
 
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSONObject;
 
 /**
  * 注意：access_token的有效期为30天，切记需要每30天进行定期更换，或者每次请求都拉取新token；

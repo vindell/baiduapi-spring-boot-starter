@@ -22,7 +22,7 @@ import java.util.concurrent.TimeUnit;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.context.support.MessageSourceAccessor;
 
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSONObject;
 import com.baidu.ai.aip.utils.HttpUtil;
 import com.baidu.aip.util.Base64Util;
 import com.google.common.base.Optional;
